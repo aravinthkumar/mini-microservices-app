@@ -1,3 +1,5 @@
+# Comments service
+
 | Description           | End points                                       | Body                                            |
 | --------------------- | ------------------------------------------------ | ----------------------------------------------- |
 | Get Comments for post | GET /posts/:id/comments e.g. /posts/123/comments | NA                                              |
