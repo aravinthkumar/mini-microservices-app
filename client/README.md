@@ -1,3 +1,8 @@
+# Use case
+
+Following are the components present in the react app.
+![](img/react-usecase.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
